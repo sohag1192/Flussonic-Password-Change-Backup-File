@@ -1,7 +1,6 @@
-
 ---
 
-# Flussonic Administrator Password Management
+# Flussonic Administrator Password Management  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FFlussonic-Password-Change-Backup-File&label=Vistors&icon=github&color=%23ff05f7&message=&style=flat&tz=UTC)
 
 This guide explains how to change the administrator’s password in Flussonic. You can update the password either by editing the configuration file or through the Admin UI.
 
