@@ -1,7 +1,7 @@
 
 ---
 
-# 📂 Backup the Configuration File
+# 📂 Backup the Configuration File  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FFlussonic-Password-Change-Backup-File&label=Vistors&icon=github&color=%23ff05f7&message=&style=flat&tz=UTC)
 
 Before making any changes to the Flussonic configuration, it is strongly recommended to create a backup. This ensures you can restore the original settings if needed.
 
